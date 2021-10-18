@@ -1,0 +1,7 @@
+.posts {
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap; /*if no space in line then will move to next line */
+  justify-content: space-around;
+  align-items: center;
+}
